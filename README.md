@@ -2,12 +2,12 @@
 
 Nosotros, los organizadores de El Podcast DEV, nos comprometemos a mantener un entorno sin abusos para todo el mundo, sin importar sexo, identidad u orientación sexuales, discapacidad, aspecto físico, edad, raza, nacionalidad o creencias religiosas. No toleraremos el acoso a miembros de la comunidad bajo ningún concepto, ni siquiera en chiste. Los participantes que violen estas reglas pueden ser sancionados o expulsados de la comunidad y los eventos de la misma, a discreción de los organizadores de El Podcast DEV.
 
-### Política de coordialidad
+### Política de cordialidad
 
 Las formas de acoso incluyen comentarios ofensivos, orales o escritos, relacionados con sexo, identidad u orientación sexuales, discapacidades, aspecto físico, edad, raza, nacionalidad o creencias religiosas, intimidación, amenazas, persecución, acecho, fotografías o grabaciones abusivas, y atenciones sexuales no gratas. Los patrocinadores y presentadores están también sujetos al código de conducta.
 
 ### Política SFW
-En la comunidad de El Podcast DEV mantenemos una conversación sin contenido explícito para adultos. Piensen en un rating tipo B12+.
+En la comunidad de El Podcast DEV mantenemos una conversación sin contenido explícito para adultos. Piensen en un rating tipo B12+.  
 No se permite ligas o media a contenido NSFW
 
 Si un miembro de la comunidad mostrara cualquier conducta abusiva, los organizadores de EL Podcast DEV pueden tomar cualquier acción que crean apropiada, incluyendo llamarle la atención o expulsarlo de la comunidad y los eventos de la misma. Si eres víctima de conductas abusivas, ves a otra persona que está siendo acosada, o tienes dudas, por favor contacta al equipo organizador inmediatamente.
