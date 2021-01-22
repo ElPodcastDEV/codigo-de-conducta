@@ -1,6 +1,6 @@
 # Código de conducta
 
-Nosotros, los organizadores de El Podcast DEV, nos comprometemos a mantener un entorno sin abusos para todo el mundo, sin importar sexo, identidad u orientación sexuales, discapacidad, aspecto físico, edad, raza, nacionalidad o creencias religiosas. No toleraremos el acoso a miembros de la comunidad bajo ningún concepto, ni siquiera en chiste. Los participantes que violen estas reglas pueden ser sancionados o expulsados de la comunidad y los eventos de la misma, a discreción de los organizadores de El Podcast DEV.
+Nosotros, los organizadores de El Podcast DEV, nos comprometemos a mantener un entorno sin abusos para los miembros de la comunidad, sin importar sexo, identidad u orientación sexuales, discapacidad, aspecto físico, edad, raza, nacionalidad o creencias religiosas. No toleraremos el acoso a miembros de la comunidad bajo ningún concepto, ni siquiera en chiste. Los participantes que violen estas reglas serán expulsados de la comunidad y los eventos de la misma, a discreción de los organizadores y moderadores de los canales de El Podcast DEV.
 
 ### Política de cordialidad
 
@@ -8,9 +8,9 @@ Las formas de acoso incluyen comentarios ofensivos, orales o escritos, relaciona
 
 ### Política SFW
 En la comunidad de El Podcast DEV mantenemos una conversación sin contenido explícito para adultos. Piensen en un rating tipo B12+.  
-No se permite ligas o media a contenido NSFW
+No se permite ligas o media a contenido NSFW, incluyendo material de índole sexual, lascivo o violento.
 
-Si un miembro de la comunidad mostrara cualquier conducta abusiva, los organizadores de EL Podcast DEV pueden tomar cualquier acción que crean apropiada, incluyendo llamarle la atención o expulsarlo de la comunidad y los eventos de la misma. Si eres víctima de conductas abusivas, ves a otra persona que está siendo acosada, o tienes dudas, por favor contacta al equipo organizador inmediatamente.
+Si eres víctima de conductas abusivas, ves a otra persona que está siendo acosada, o tienes dudas, por favor contacta al equipo organizador inmediatamente.
 
 Organizadores:
 
